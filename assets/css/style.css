@@ -136,10 +136,10 @@ h2 {
 /* media queries */
 
 @media only screen and (max-width: 800px) {
-  /* body {
-    min-height: 100vh;
+  body {
+    height: 100vh;
     overflow: hidden;
-  } */
+  }
   .top {
     margin-top: 3rem;
     flex-direction: column;
